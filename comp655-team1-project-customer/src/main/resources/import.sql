@@ -1,0 +1,10 @@
+insert into CustomerEntity (id, name, email, balance) values(nextval('CustomerEntity_SEQ'), 'Dez', 'Dez@', 1200.00);
+insert into CustomerEntity (id, name, email, balance) values(nextval('CustomerEntity_SEQ'), 'Faisal', 'Faisal@', 1800.00);
+insert into CustomerEntity (id, name, email, balance) values(nextval('CustomerEntity_SEQ'), 'Cameron', 'Cameron@', 5000.00);
+insert into CustomerEntity (id, name, email, balance) values(nextval('CustomerEntity_SEQ'), 'Bindhu', 'Bindhu@', 1500.00);
+insert into CustomerEntity (id, name, email, balance) values(nextval('CustomerEntity_SEQ'), 'Dicky', 'Dicky@', 600.00);
+insert into CustomerEntity (id, name, email, balance) values(nextval('CustomerEntity_SEQ'), 'Huey', 'Huey@', 800.00);
+insert into CustomerEntity (id, name, email, balance) values(nextval('CustomerEntity_SEQ'), 'Della', 'Della@', 1500.00);
+insert into CustomerEntity (id, name, email, balance) values(nextval('CustomerEntity_SEQ'), 'Lennon', 'Lennon@', 600.00);
+insert into CustomerEntity (id, name, email, balance) values(nextval('CustomerEntity_SEQ'), 'Kylee', 'Kylee@', 1200.00);
+insert into CustomerEntity (id, name, email, balance) values(nextval('CustomerEntity_SEQ'), 'John', 'John@', 500.00);

@@ -1,0 +1,5 @@
+// Only MacOS local
+.DS_Store
+
+// If you'd like to store your generated Quarkus zipped files locally
+quarkus-zipped-files
