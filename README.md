@@ -1,4 +1,4 @@
-# README: RESTful API Implementation for Customer Entity
+# RESTful API Implementation for Customer Entity
 
 ## Overview
 This project demonstrates a simple implementation of a RESTful API using a `Customer` entity. The API provides basic CRUD operations to manage customers and adheres to RESTful principles for seamless integration and scalability. It is designed for learning and can serve as a foundation for more complex applications.
